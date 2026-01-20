@@ -10,3 +10,7 @@ https://github.com/cnjinhao/nana/wiki/Configuration-of-Third-Party-Libraries-for
 
 配置第三方库的方法
 https://github.com/cnjinhao/nana/wiki/Configuration-of-Third-Party-Libraries-for-Nana
+
+現在抓的是
+prebuilt libpng-1.6.35
+prebuilt zlib-1.2.11
